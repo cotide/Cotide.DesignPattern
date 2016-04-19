@@ -69,10 +69,16 @@
     <Compile Include="简单工厂模式\Entity\OperationMul.cs" />
     <Compile Include="简单工厂模式\Entity\OperationSub.cs" />
     <Compile Include="简单工厂模式\SimpleFactoryTest.cs" />
+    <Compile Include="装饰模式\DecorativePatternTest.cs" />
+    <Compile Include="装饰模式\Entity\BigTrouser.cs" />
+    <Compile Include="装饰模式\Entity\Finery.cs" />
+    <Compile Include="装饰模式\Entity\Person.cs" />
+    <Compile Include="装饰模式\Entity\Tshirts.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="策略模式\Design.cd" />
     <None Include="简单工厂模式\Design.cd" />
+    <None Include="装饰模式\Design.cd" />
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">

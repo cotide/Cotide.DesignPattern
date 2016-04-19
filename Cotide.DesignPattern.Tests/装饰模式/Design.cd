@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="装饰模式">
+    <Position X="8.925" Y="0.5" Height="0.284" Width="0.8" />
+  </Comment>
+  <Comment CommentText="人&#xD;&#xA;">
+    <Position X="1.25" Y="1.625" Height="0.284" Width="0.7" />
+  </Comment>
+  <Comment CommentText="服饰">
+    <Position X="5.108" Y="1.558" Height="0.284" Width="0.7" />
+  </Comment>
+  <Comment CommentText="T恤">
+    <Position X="2.967" Y="4.65" Height="0.284" Width="0.7" />
+  </Comment>
+  <Comment CommentText="垮裤">
+    <Position X="6.867" Y="4.758" Height="0.284" Width="0.7" />
+  </Comment>
+  <Class Name="Cotide.DesignPattern.Tests.装饰模式.Entity.Person">
+    <Position X="1" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>装饰模式\Entity\Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cotide.DesignPattern.Tests.装饰模式.Entity.Tshirts">
+    <Position X="2.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>装饰模式\Entity\Tshirts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cotide.DesignPattern.Tests.装饰模式.Entity.Finery">
+    <Position X="4.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>装饰模式\Entity\Finery.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cotide.DesignPattern.Tests.装饰模式.Entity.BigTrouser">
+    <Position X="6.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>装饰模式\Entity\BigTrouser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
