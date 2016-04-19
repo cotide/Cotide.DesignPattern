@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="策略模式">
+    <Position X="8.925" Y="0.5" Height="0.284" Width="0.8" />
+  </Comment>
+  <Comment CommentText="策略管理对象">
+    <Position X="1.108" Y="0.725" Height="0.284" Width="1.058" />
+  </Comment>
+  <Comment CommentText="抽象算法类">
+    <Position X="5.817" Y="1.067" Height="0.333" Width="0.867" />
+  </Comment>
+  <Comment CommentText="算法A">
+    <Position X="3.742" Y="2.95" Height="0.333" Width="0.7" />
+  </Comment>
+  <Comment CommentText="算法B">
+    <Position X="5.942" Y="2.933" Height="0.333" Width="0.7" />
+  </Comment>
+  <Comment CommentText="算法C">
+    <Position X="8.367" Y="2.95" Height="0.333" Width="0.7" />
+  </Comment>
+  <Class Name="Cotide.DesignPattern.Tests.策略模式.Entity.Strategy">
+    <Position X="5.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>策略模式\Entity\Strategy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cotide.DesignPattern.Tests.策略模式.Entity.StrategyB">
+    <Position X="5.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>策略模式\Entity\StrategyB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cotide.DesignPattern.Tests.策略模式.Entity.StrategyC">
+    <Position X="8" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>策略模式\Entity\StrategyC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cotide.DesignPattern.Tests.策略模式.Entity.StrategyA">
+    <Position X="3.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>策略模式\Entity\StrategyA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cotide.DesignPattern.Tests.策略模式.Entity.StrategyManager">
+    <Position X="0.75" Y="1.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>策略模式\Entity\StrategyManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
