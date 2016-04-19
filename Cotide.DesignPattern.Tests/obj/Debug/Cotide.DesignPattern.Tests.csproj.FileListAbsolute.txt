@@ -1,0 +1,5 @@
+C:\Work\Github\Cotide.DesignPattern\Cotide.DesignPattern.Tests\bin\Debug\Cotide.DesignPattern.Tests.dll
+C:\Work\Github\Cotide.DesignPattern\Cotide.DesignPattern.Tests\bin\Debug\Cotide.DesignPattern.Tests.pdb
+C:\Work\Github\Cotide.DesignPattern\Cotide.DesignPattern.Tests\obj\Debug\Cotide.DesignPattern.Tests.csprojResolveAssemblyReference.cache
+C:\Work\Github\Cotide.DesignPattern\Cotide.DesignPattern.Tests\obj\Debug\Cotide.DesignPattern.Tests.dll
+C:\Work\Github\Cotide.DesignPattern\Cotide.DesignPattern.Tests\obj\Debug\Cotide.DesignPattern.Tests.pdb

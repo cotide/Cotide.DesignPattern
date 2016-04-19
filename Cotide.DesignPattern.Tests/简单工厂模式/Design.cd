@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="简单工厂模式">
+    <Position X="0.7" Y="0.5" Height="0.317" Width="1.108" />
+  </Comment>
+  <Comment CommentText="统计基类">
+    <Position X="4.742" Y="1.108" Height="0.284" Width="0.892" />
+  </Comment>
+  <Comment CommentText="加法运算类">
+    <Position X="1" Y="4.008" Height="0.284" Width="0.892" />
+  </Comment>
+  <Comment CommentText="减法运算类">
+    <Position X="3.642" Y="4.042" Height="0.284" Width="0.892" />
+  </Comment>
+  <Comment CommentText="乘法运算类">
+    <Position X="6" Y="4.042" Height="0.284" Width="0.892" />
+  </Comment>
+  <Comment CommentText="除法运算类">
+    <Position X="8.275" Y="4.025" Height="0.284" Width="0.892" />
+  </Comment>
+  <Class Name="Cotide.DesignPattern.Tests.简单工厂模式.Entity.OperationAdd">
+    <Position X="0.5" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>简单工厂模式\Entity\OperationAdd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cotide.DesignPattern.Tests.简单工厂模式.Entity.OperationSub">
+    <Position X="3.25" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>简单工厂模式\Entity\OperationSub.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cotide.DesignPattern.Tests.简单工厂模式.Entity.Operation">
+    <Position X="4.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACQAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>简单工厂模式\Entity\Operation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cotide.DesignPattern.Tests.简单工厂模式.Entity.OperationMul">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>简单工厂模式\Entity\OperationMul.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cotide.DesignPattern.Tests.简单工厂模式.Entity.OperationDiv">
+    <Position X="8" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>简单工厂模式\Entity\OperationDiv.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
